@@ -1,3 +1,2 @@
 # kudi-mod
-
-YAKINDA MODERASYON BOTUMU YÜKLEYCEM 
+v12 moderasyon botum istediğiniz gibi kullanın 
