@@ -1,2 +1,2 @@
 # kudi-mod
-v12 moderasyon botum istediğiniz gibi kullanın 
+v12 discord moderasyon botum istediğiniz gibi kullanın 
